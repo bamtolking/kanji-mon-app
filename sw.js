@@ -1,5 +1,5 @@
 // 오프라인에서도 열리게: 앱 파일은 먼저 캐시에서, 뒤에서 새 버전을 받아 둔다.
-const CACHE = 'kanjimon-v3';
+const CACHE = 'kanjimon-v4';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-180.png'];
 
 self.addEventListener('install', (e) => {
