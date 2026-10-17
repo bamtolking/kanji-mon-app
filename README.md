@@ -7,3 +7,6 @@
 - 안드로이드: Chrome으로 열고 → 메뉴(⋮) → **홈 화면에 추가** 또는 **앱 설치**
 
 이 저장소에는 빌드된 앱 파일만 있어요. 기록은 각자 기기의 브라우저에만 저장되고, 서버로 보내지 않아요.
+
+## 출처
+- 획순 자료: [KanjiVG](https://kanjivg.tagaini.net) © Ulrich Apel, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). 앱에 들어 있는 획순 경로 자료도 같은 조건을 따라요.
