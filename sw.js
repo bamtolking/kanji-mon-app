@@ -1,5 +1,6 @@
 // 오프라인에서도 열리게: 앱 파일은 먼저 캐시에서, 뒤에서 새 버전을 받아 둔다.
-const CACHE = 'kanjimon-v4';
+// 발음 묶음(voice/*.mp3)은 처음 들을 때 받아서 캐시에 넣어 둔다.
+const CACHE = 'kanjimon-v5';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-180.png'];
 
 self.addEventListener('install', (e) => {
